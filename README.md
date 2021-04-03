@@ -9,12 +9,12 @@
 It is not possible to prove that a particular object is incompressible within algorithmic information theory so
 the best we can do is perform rigorous experimental analysis using machine learning methods. Hence this challenge.
 
+**Note:** For more information, please check the [Monte Carlo Hypothesis](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf). 
+
 ## Getting started guides:
 
 The maximum entropy distribution of the prime numbers and the algorithmic randomness of prime encodings are naturally divided into two separate challenges. In this repository, a getting started guide has been provided for each challenge as well as
-methods for generating the relevant datasets. 
-
-**Note:** For more information, please check https://github.com/AidanRocke/getting_started_monte_carlo/blob/main/monte-carlo-hypothesis.pdf
+methods for generating the relevant datasets.
 
 ## References:
 
