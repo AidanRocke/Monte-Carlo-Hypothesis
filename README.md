@@ -16,6 +16,13 @@ the best we can do is perform rigorous experimental analysis using machine learn
 The maximum entropy distribution of the prime numbers and the algorithmic randomness of prime encodings are naturally divided into two separate challenges. In this repository, a getting started guide has been provided for each challenge as well as
 methods for generating the relevant datasets.
 
+## Contacting the organiser:
+
+Important progress on this challenge ultimately requires a combination of insights from math, physics and computation.
+If you think you have made significant progress, feel free to post your answer on the MathOverflow: https://mathoverflow.net/q/384109
+
+Alternatively, you may contact the organiser directly: aidanrocke@gmail.com
+
 ## References:
 
 1. Aidan Rocke (https://mathoverflow.net/users/56328/aidan-rocke), information-theoretic derivation of the prime number theorem, URL (version: 2021-02-20): https://mathoverflow.net/q/384109
@@ -36,4 +43,4 @@ methods for generating the relevant datasets.
 
 9. Aidan Rocke (https://cstheory.stackexchange.com/users/47594/aidan-rocke), Understanding the Physical Church-Turing thesis and its implications, URL (version: 2021-02-22): https://cstheory.stackexchange.com/q/48450
 
-10. Igor V. Volovich. Number Theory as the Ultimate Physical Theory. Pleiades Publishing. 2010. 
+10. Igor V. Volovich. Number Theory as the Ultimate Physical Theory. Pleiades Publishing. 2010.
