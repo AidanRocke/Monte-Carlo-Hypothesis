@@ -31,16 +31,18 @@ Alternatively, you may contact the organiser directly: aidanrocke@gmail.com
 
 3. Marcus Hutter. Algorithmic information theory. Scholarpedia. 2007.
 
-4. Peter D. Grünwald. The Minimum Description Length Principle . MIT Press. 2007.
+4. Schnorr, C. P. (1971). "A unified approach to the definition of a random sequence". Mathematical Systems Theory.
 
-5. David Deutsch. Quantum theory, the Church–Turing principle and the universal quantum computer. 1985.
+5. Peter D. Grünwald. The Minimum Description Length Principle . MIT Press. 2007.
 
-6. Don Zagier. Newman’s short proof of the Prime Number Theorem. The American Mathematical Monthly, Vol. 104, No. 8 (Oct., 1997), pp. 705-708
+6. David Deutsch. Quantum theory, the Church–Turing principle and the universal quantum computer. 1985.
 
-7. John A. Wheeler, 1990, "Information, physics, quantum: The search for links" in W. Zurek (ed.) Complexity, Entropy, and the Physics of Information. Redwood City, CA: Addison-Wesley.
+7. Don Zagier. Newman’s short proof of the Prime Number Theorem. The American Mathematical Monthly, Vol. 104, No. 8 (Oct., 1997), pp. 705-708
 
-8. Guillermo Valle Pérez, Chico Camargo, Ard Louis. Deep Learning generalizes because the parameter-function map is biased towards simple functions. 2019.
+8. John A. Wheeler, 1990, "Information, physics, quantum: The search for links" in W. Zurek (ed.) Complexity, Entropy, and the Physics of Information. Redwood City, CA: Addison-Wesley.
 
-9. Aidan Rocke (https://cstheory.stackexchange.com/users/47594/aidan-rocke), Understanding the Physical Church-Turing thesis and its implications, URL (version: 2021-02-22): https://cstheory.stackexchange.com/q/48450
+9. Guillermo Valle Pérez, Chico Camargo, Ard Louis. Deep Learning generalizes because the parameter-function map is biased towards simple functions. 2019.
 
-10. Igor V. Volovich. Number Theory as the Ultimate Physical Theory. Pleiades Publishing. 2010.
+10. Aidan Rocke (https://cstheory.stackexchange.com/users/47594/aidan-rocke), Understanding the Physical Church-Turing thesis and its implications, URL (version: 2021-02-22): https://cstheory.stackexchange.com/q/48450
+
+11. Igor V. Volovich. Number Theory as the Ultimate Physical Theory. Pleiades Publishing. 2010.
