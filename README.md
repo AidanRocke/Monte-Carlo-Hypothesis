@@ -16,7 +16,7 @@ the best we can do is perform rigorous experimental analysis using machine learn
 The maximum entropy distribution of the prime numbers and the algorithmic randomness of prime encodings are naturally divided into two separate challenges. In this repository, a getting started guide has been provided for each challenge as well as
 methods for generating the relevant datasets.
 
-## Contacting the organiser:
+## Submissions:
 
 Important progress on this challenge ultimately requires a combination of insights from math, physics and computation.
 If you think you have made significant progress, feel free to post your answer on the MathOverflow: https://mathoverflow.net/q/384109
