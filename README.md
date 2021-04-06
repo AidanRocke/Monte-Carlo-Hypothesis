@@ -23,6 +23,27 @@ If you think you have made significant progress, feel free to post your answer o
 
 Alternatively, you may contact the organiser directly: aidanrocke@gmail.com
 
+## Frequently Answered Questions:
+
+1. In what sense do the prime numbers have a maximum entropy distribution?
+
+This was carefully explained on the MathOverflow: https://mathoverflow.net/q/384109
+
+2. In what sense are prime encodings algorithmically random?
+
+I shall first assume that you have read both pages of [the complete challenge description](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf) and the theory behind this hypothesis: https://mathoverflow.net/q/384109
+Given these assumptions, let's consider a thought experiment.
+
+We shall first note that the locations of the primes are necessary and sufficient to define a prime encoding of any
+length. Now, let's suppose you have a small fortune and enter a Casino which only offers one game. Given a prime encoding
+of finite length, predict the location of the next prime number. Every time you are correct you win a dollar and every
+time you are incorrect you lose a dollar.
+
+If a profitable betting strategy exists, you may design an algorithm to implement this strategy. However, the statement
+that prime encodings are algorithmically random implies that if you play the game long enough you won't make any profit
+whatsoever. Moreover, given that the prime numbers have a maximum entropy distribution if you play this game long enough
+you will eventually lose all your money.
+
 ## References:
 
 1. Aidan Rocke (https://mathoverflow.net/users/56328/aidan-rocke), information-theoretic derivation of the prime number theorem, URL (version: 2021-02-20): https://mathoverflow.net/q/384109
