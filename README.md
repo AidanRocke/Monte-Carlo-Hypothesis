@@ -25,11 +25,11 @@ Alternatively, you may contact the organiser directly: aidanrocke@gmail.com
 
 ## Frequently Answered Questions:
 
-1. In what sense do the prime numbers have a maximum entropy distribution?
+**In what sense do the prime numbers have a maximum entropy distribution?**
 
 This was carefully explained on the MathOverflow: https://mathoverflow.net/q/384109
 
-2. In what sense are prime encodings algorithmically random?
+**In what sense are prime encodings algorithmically random?**
 
 I shall first assume that you have read both pages of [the complete challenge description](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf) and the theory behind this hypothesis: https://mathoverflow.net/q/384109
 Given these assumptions, let's consider a thought experiment.
