@@ -23,6 +23,12 @@ If you think you have made significant progress, feel free to post your answer o
 
 Alternatively, you may contact the organiser directly: aidanrocke@gmail.com
 
+## Prizes:
+
+The best submission by a team or individual combining strong experimental and
+theoretical work, presented before the 3rd of November 2021, will be awarded
+a 150 cL Château Lafite-Rothschild Magnum from 2012 on the 24th of December 2021.
+
 ## Frequently Answered Questions:
 
 **In what sense do the prime numbers have a maximum entropy distribution?**
@@ -43,12 +49,6 @@ If a profitable betting strategy exists, you may design an algorithm to implemen
 that prime encodings are algorithmically random implies that if you play the game long enough you won't make any profit
 whatsoever. Moreover, given that the prime numbers have a maximum entropy distribution if you play this game long enough
 you will eventually lose all your money.
-
-## Prizes:
-
-The best submission by a team or individual combining strong experimental and
-theoretical work, presented before the 3rd of November 2021, will be awarded
-a 150 cL Château Lafite-Rothschild Magnum from 2012 on the 24th of December 2021.
 
 
 ## References:
