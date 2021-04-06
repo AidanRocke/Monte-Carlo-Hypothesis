@@ -44,6 +44,13 @@ that prime encodings are algorithmically random implies that if you play the gam
 whatsoever. Moreover, given that the prime numbers have a maximum entropy distribution if you play this game long enough
 you will eventually lose all your money.
 
+## Prizes:
+
+The best submission by a team or individual combining strong experimental and
+theoretical work, presented before the 3rd of November 2021, will be awarded
+a 150 cL Château Lafite-Rothschild Magnum from 2012 on the 24th of December 2021.
+
+
 ## References:
 
 1. Aidan Rocke (https://mathoverflow.net/users/56328/aidan-rocke), information-theoretic derivation of the prime number theorem, URL (version: 2021-02-20): https://mathoverflow.net/q/384109
