@@ -50,6 +50,15 @@ that prime encodings are algorithmically random implies that if you play the gam
 whatsoever. Moreover, given that the prime numbers have a maximum entropy distribution if you play this game long enough
 you will eventually lose all your money.
 
+**Might this hypothesis have any connection with the Riemann Hypothesis?**
+
+That is correct. If we find very strong experimental evidence for the hypothesis
+that prime encodings are asymptotically incompressible then it is impossible for
+us to prove the Riemann Hypothesis if it is true.
+
+This would provide an important instance of Gödel's incompleteness theorem that in a
+mathematical system that is sufficiently sophisticated to contain arithmetic there
+are statements that are true that can't be proved.
 
 ## References:
 
