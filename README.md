@@ -52,8 +52,7 @@ you will eventually lose all your money.
 
 **Have you benchmarked prime encodings against pseudo-random number generators?**
 
-Yes, I have empirically verified that against state-of-the-art machine learning algorithms
-pseudorandom number generators fail the weighted next bit test, unlike prime encodings.
+Yes. Against state-of-the-art machine learning algorithms pseudorandom number generators fail the weighted next bit test, unlike prime encodings.
 
 **Might this hypothesis have any connection with the Riemann Hypothesis?**
 
