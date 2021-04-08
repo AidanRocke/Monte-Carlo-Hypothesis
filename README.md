@@ -50,8 +50,10 @@ that prime encodings are algorithmically random implies that if you play the gam
 whatsoever. Moreover, given that the prime numbers have a maximum entropy distribution if you play this game long enough
 you will eventually lose all your money.
 
+**What is the precise definition of asymptotic incompressibility?**
+
 For more information on asymptotic incompressibility and its relation to algorithmic randomness, you may want to
-read a [concise explanation](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/theory/asymptotic_incompressibility.pdf) of how a scientist may identify data-generating processes that are asymptotically incompressible using methods from machine learning. 
+read a [concise explanation](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/theory/asymptotic_incompressibility.pdf) of how a scientist may identify data-generating processes that are asymptotically incompressible using methods from machine learning.
 
 **Have you benchmarked prime encodings against pseudo-random number generators?**
 
