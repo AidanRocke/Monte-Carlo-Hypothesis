@@ -75,20 +75,24 @@ are statements that are true that can't be proved.
 
 2. Terence Tao. Structure and randomness in the prime numbers: A small selection of results in number theory. Slides. 2007.
 
-3. Marcus Hutter. Algorithmic information theory. Scholarpedia. 2007.
+3. A. N. Kolmogorov Three approaches to the quantitative definition of information. Problems of Information and Transmission, 1(1):1--7, 1965
 
-4. Schnorr, C. P. (1971). "A unified approach to the definition of a random sequence". Mathematical Systems Theory.
+4. G. J. Chaitin On the length of programs for computing finite binary sequences: Statistical considerations. Journal of the ACM, 16(1):145--159, 1969.
 
-5. Peter D. Grünwald. The Minimum Description Length Principle . MIT Press. 2007.
+5. R. J. Solomonoff A formal theory of inductive inference: Parts 1 and 2. Information and Control, 7:1--22 and 224--254, 1964.
 
-6. David Deutsch. Quantum theory, the Church–Turing principle and the universal quantum computer. 1985.
+6. Schnorr, C. P. (1971). "A unified approach to the definition of a random sequence". Mathematical Systems Theory.
 
-7. Don Zagier. Newman’s short proof of the Prime Number Theorem. The American Mathematical Monthly, Vol. 104, No. 8 (Oct., 1997), pp. 705-708
+7. Peter D. Grünwald. The Minimum Description Length Principle . MIT Press. 2007.
 
-8. John A. Wheeler, 1990, "Information, physics, quantum: The search for links" in W. Zurek (ed.) Complexity, Entropy, and the Physics of Information. Redwood City, CA: Addison-Wesley.
+8. David Deutsch. Quantum theory, the Church–Turing principle and the universal quantum computer. 1985.
 
-9. Guillermo Valle Pérez, Chico Camargo, Ard Louis. Deep Learning generalizes because the parameter-function map is biased towards simple functions. 2019.
+9. Don Zagier. Newman’s short proof of the Prime Number Theorem. The American Mathematical Monthly, Vol. 104, No. 8 (Oct., 1997), pp. 705-708
 
-10. Aidan Rocke (https://cstheory.stackexchange.com/users/47594/aidan-rocke), Understanding the Physical Church-Turing thesis and its implications, URL (version: 2021-02-22): https://cstheory.stackexchange.com/q/48450
+10. John A. Wheeler, 1990, "Information, physics, quantum: The search for links" in W. Zurek (ed.) Complexity, Entropy, and the Physics of Information. Redwood City, CA: Addison-Wesley.
 
-11. Igor V. Volovich. Number Theory as the Ultimate Physical Theory. Pleiades Publishing. 2010.
+11. Guillermo Valle Pérez, Chico Camargo, Ard Louis. Deep Learning generalizes because the parameter-function map is biased towards simple functions. 2019.
+
+12. Aidan Rocke (https://cstheory.stackexchange.com/users/47594/aidan-rocke), Understanding the Physical Church-Turing thesis and its implications, URL (version: 2021-02-22): https://cstheory.stackexchange.com/q/48450
+
+13. Igor V. Volovich. Number Theory as the Ultimate Physical Theory. Pleiades Publishing. 2010.
