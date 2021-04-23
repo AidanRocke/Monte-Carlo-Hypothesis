@@ -2,7 +2,7 @@
 
 1. The challenge is to explore the hypothesis that prime-encodings are algorithmically random and that prime numbers have a maximum entropy distribution [1].
 
-2. Conventional mathematical wisdom, at present, suggests that this hypothesis might be false i.e. there might be 'conspiracies' among arbitrarily large subsequences of prime encodings, i.e. predictable behaviour, which may be exploited by a machine learning algorithm [2].
+2. Conventional mathematical wisdom, at present, suggests that this hypothesis might be false. There might be 'conspiracies' among arbitrarily large subsequences of prime encodings, i.e. predictable behaviour, which may be exploited by a machine learning algorithm [2].
 
 3. In fact, this hypothesis implies a non-trivial interpretation of the prime number theorem. The Prime Number Theorem says how the prime numbers are distributed but not why. On the other hand, an information-theoretic analysis of the Prime Number Theorem indicates that they are distributed in this way because prime encodings are algorithmically random and the prime numbers have a maximum entropy distribution.
 
@@ -73,7 +73,7 @@ are statements that are true that can't be proved.
 1. [Fermat's little theorem](https://keplerlounge.com/number-theory/2021/04/17/fermat-little.html)
 2. [Euler's totient function and Euler's theorem](https://keplerlounge.com/number-theory/2021/04/19/euler-theorem.html)
 3. [The multiplicative group of integers modulo n](https://keplerlounge.com/number-theory/2021/04/21/modulo-group.html)
-4. [Lagrange's theorem and its applications](https://keplerlounge.com/number-theory/2021/04/22/lagrange-theorem.html) 
+4. [Lagrange's theorem and its applications](https://keplerlounge.com/number-theory/2021/04/22/lagrange-theorem.html)
 
 ## References:
 
