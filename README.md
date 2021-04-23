@@ -69,6 +69,12 @@ This would provide an important instance of Gödel's incompleteness theorem that
 mathematical system that is sufficiently sophisticated to contain arithmetic there
 are statements that are true that can't be proved.
 
+## An introduction to number theory:
+1. [Fermat's little theorem](https://keplerlounge.com/number-theory/2021/04/17/fermat-little.html)
+2. [Euler's totient function and Euler's theorem](https://keplerlounge.com/number-theory/2021/04/19/euler-theorem.html)
+3. [The multiplicative group of integers modulo n](https://keplerlounge.com/number-theory/2021/04/21/modulo-group.html)
+4. [Lagrange's theorem and its applications](https://keplerlounge.com/number-theory/2021/04/22/lagrange-theorem.html) 
+
 ## References:
 
 1. Aidan Rocke (https://mathoverflow.net/users/56328/aidan-rocke), information-theoretic derivation of the prime number theorem, URL (version: 2021-02-20): https://mathoverflow.net/q/384109
