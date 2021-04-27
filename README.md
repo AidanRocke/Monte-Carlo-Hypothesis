@@ -74,6 +74,8 @@ are statements that are true that can't be proved.
 2. [Euler's totient function and Euler's theorem](https://keplerlounge.com/number-theory/2021/04/19/euler-theorem.html)
 3. [The multiplicative group of integers modulo n](https://keplerlounge.com/number-theory/2021/04/21/modulo-group.html)
 4. [Lagrange's theorem and its applications](https://keplerlounge.com/number-theory/2021/04/22/lagrange-theorem.html)
+5. [Almost all integers are incompressible](https://keplerlounge.com/information-theory/2021/04/26/incompressible-integers.html)
+6. [Using the incompressibility method for counting prime numbers](https://keplerlounge.com/information-theory/2021/04/27/AIT-counting-primes.html)
 
 ## References:
 
