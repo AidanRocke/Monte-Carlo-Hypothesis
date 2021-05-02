@@ -1,3 +1,13 @@
+>It is also interesting to find, through our experience, that NNs are good with
+algebraic geometry but not so much with number theory. This principle could be
+approximately understood. At the most basic level, every computation in algebraic
+geometry, be it a spectral sequence or a Gröbner basis, reduces to finding kernels
+and co-kernels of sets of matrices (over Z or even over C), albeit of quickly forbidding
+dimensions. Matrix/tensor manipulation is the heart of any NN. Number theory,
+on the other hand, ultimately involves patterns of prime numbers which, as is well
+known, remain elusive.-Yang-Hui He [14]
+
+
 ## The Challenge:
 
 1. The challenge is to explore the hypothesis that prime-encodings are algorithmically random and that prime numbers have a maximum entropy distribution [1].
@@ -104,3 +114,5 @@ are statements that are true that can't be proved.
 12. Aidan Rocke (https://cstheory.stackexchange.com/users/47594/aidan-rocke), Understanding the Physical Church-Turing thesis and its implications, URL (version: 2021-02-22): https://cstheory.stackexchange.com/q/48450
 
 13. Igor V. Volovich. Number Theory as the Ultimate Physical Theory. Pleiades Publishing. 2010.
+
+14. Yang-Hui He. Deep-Learning the Landscape. 2018.
