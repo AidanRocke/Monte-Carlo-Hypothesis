@@ -29,9 +29,7 @@ methods for generating the relevant datasets.
 ## Submissions:
 
 Important progress on this challenge ultimately requires a combination of insights from math, physics and computation.
-If you think you have made significant progress, feel free to post your answer on the MathOverflow: https://mathoverflow.net/q/384109
-
-Alternatively, you may contact the organiser directly: aidanrocke@gmail.com
+If you think you have made significant progress, feel free to open a pull request.
 
 ## Prizes:
 
@@ -40,25 +38,6 @@ theoretical work, presented before the 3rd of November 2021, will be awarded
 a 150 cL Château Lafite-Rothschild Magnum from 2012 on the 24th of December 2021.
 
 ## Frequently Answered Questions:
-
-**In what sense do the prime numbers have a maximum entropy distribution?**
-
-This was carefully explained on the MathOverflow: https://mathoverflow.net/q/384109
-
-**In what sense are prime encodings algorithmically random?**
-
-I shall first assume that you have read both pages of [the complete challenge description](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf) and the theory behind this hypothesis: https://mathoverflow.net/q/384109
-Given these assumptions, let's consider a thought experiment.
-
-We shall first note that the locations of the primes are necessary and sufficient to define a prime encoding of any
-length. Now, let's suppose you have a small fortune and enter a Casino which only offers one game. Given a prime encoding
-of finite length, predict the location of the next prime number. Every time you are correct you win a dollar and every
-time you are incorrect you lose a dollar.
-
-If a profitable betting strategy exists, you may design an algorithm to implement this strategy. However, the statement
-that prime encodings are algorithmically random implies that if you play the game long enough you won't make any profit
-whatsoever. Moreover, given that the prime numbers have a maximum entropy distribution if you play this game long enough
-you will eventually lose all your money.
 
 **What is the precise definition of asymptotic incompressibility?**
 
