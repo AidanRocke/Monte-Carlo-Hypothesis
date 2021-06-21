@@ -61,6 +61,16 @@ are statements that are true that can't be proved.
 7. [An introduction to normal numbers](https://keplerlounge.com/information-theory/2021/05/10/normal-numbers.html)
 8. [Compression bounds on the Copeland-Erdős constant](https://keplerlounge.com/information-theory/2021/05/11/copeland-erdos.html)
 
+## An introduction to probabilistic number theory:
+
+1. [A complexity bound on Gödel numbers](https://keplerlounge.com/formal/systems/2021/05/11/godel-numbers.html)
+2. [An elegant proof of Mertens' theorem](https://keplerlounge.com/number/theory/2021/05/23/mertens-theorem.html)
+3. [Abel summation and Mertens' second theorem](https://keplerlounge.com/number-theory/2021/05/30/mertens-second.html)
+4. [The Hardy-Ramanujan theorem](https://keplerlounge.com/number-theory/2021/05/31/hardy-ramanujan.html)
+5. [The Erdős-Kac theorem](https://keplerlounge.com/number-theory/2021/06/01/erdos-kac.html)
+6. [A curious relation concerning the distribution of primes](https://keplerlounge.com/number-theory/2021/06/09/PNT-relation.html)
+7. [A probabilistic proof of Cramér's conjecture](https://keplerlounge.com/number-theory/2021/06/04/cram%C3%A9r-conjecture.html)
+
 ## References:
 
 1. Aidan Rocke (https://mathoverflow.net/users/56328/aidan-rocke), information-theoretic derivation of the prime number theorem, URL (version: 2021-02-20): https://mathoverflow.net/q/384109
