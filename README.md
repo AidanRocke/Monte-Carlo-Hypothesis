@@ -12,7 +12,7 @@
 It is not possible to prove that a particular object is incompressible within algorithmic information theory so
 the best we can do is perform rigorous experimental analysis using machine learning methods. Hence this challenge.
 
-**Note:** For more information, please check the [Monte Carlo Hypothesis](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf).
+**Note:** For more information, please check the [Monte Carlo Hypothesis](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf) as well as its [refinement using computational complexity theory](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/theory/randomness_complexity.pdf). 
 
 ## Getting started guides:
 
