@@ -12,7 +12,7 @@
 It is not possible to prove that a particular object is incompressible within algorithmic information theory so
 the best we can do is perform rigorous experimental analysis using machine learning methods. Hence this challenge.
 
-**Note:** For more information, please check the [Monte Carlo Hypothesis](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf) as well as its [refinement using computational complexity theory](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/theory/randomness_complexity.pdf). 
+**Note:** For more information, please check the [Monte Carlo Hypothesis](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/monte-carlo-hypothesis.pdf) as well as its [refinement using computational complexity theory](https://github.com/AidanRocke/Monte-Carlo-Hypothesis/blob/main/theory/randomness_complexity.pdf).
 
 ## Getting started guides:
 
@@ -70,6 +70,7 @@ are statements that are true that can't be proved.
 5. [The Erdős-Kac theorem](https://keplerlounge.com/number-theory/2021/06/01/erdos-kac.html)
 6. [A curious relation concerning the distribution of primes](https://keplerlounge.com/number-theory/2021/06/09/PNT-relation.html)
 7. [A probabilistic proof of Cramér's conjecture](https://keplerlounge.com/number-theory/2021/06/04/cram%C3%A9r-conjecture.html)
+8. [The computational complexity of prime sieving](https://keplerlounge.com/number-theory/2021/06/27/eratosthenes.html)
 
 ## References:
 

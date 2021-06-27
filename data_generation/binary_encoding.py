@@ -28,7 +28,7 @@ def primesfrom2to(n):
     return np.r_[2,3,((3*np.nonzero(sieve)[0][1:]+1)|1)]
 
 ## or we could use sympy: 
-def erastothenes(n):
+def eratosthenes(n):
     
     euclid._reset()
     
