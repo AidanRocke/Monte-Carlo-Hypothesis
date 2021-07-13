@@ -57,9 +57,10 @@ are statements that are true that can't be proved.
 3. [The multiplicative group of integers modulo n](https://keplerlounge.com/number-theory/2021/04/21/modulo-group.html)
 4. [Lagrange's theorem and its applications](https://keplerlounge.com/number-theory/2021/04/22/lagrange-theorem.html)
 5. [Almost all integers are incompressible](https://keplerlounge.com/information-theory/2021/04/26/incompressible-integers.html)
-6. [Using the incompressibility method for counting prime numbers](https://keplerlounge.com/information-theory/2021/04/27/AIT-counting-primes.html)
-7. [An introduction to normal numbers](https://keplerlounge.com/information-theory/2021/05/10/normal-numbers.html)
-8. [Compression bounds on the Copeland-Erdős constant](https://keplerlounge.com/information-theory/2021/05/11/copeland-erdos.html)
+6. [All the information in the integers is stored in the prime numbers](https://keplerlounge.com/information-theory/2021/07/13/integer-information.html)
+7. [Using the incompressibility method for counting prime numbers](https://keplerlounge.com/information-theory/2021/04/27/AIT-counting-primes.html)
+8. [An introduction to normal numbers](https://keplerlounge.com/information-theory/2021/05/10/normal-numbers.html)
+9. [Compression bounds on the Copeland-Erdős constant](https://keplerlounge.com/information-theory/2021/05/11/copeland-erdos.html)
 
 ## An introduction to probabilistic number theory:
 
